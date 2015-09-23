@@ -62,14 +62,14 @@ h2 {
   margin-bottom: 13px;
 }
 
-.exp {
+.section {
   background-color: white;
   border-bottom: 1px solid #dbdbdb;
   text-align: center;
   padding-bottom: 20px;
 }
 
-.exp h3 {
+.section h3 {
   font-family: Verdana, Geneva, sans-serif;
 }
 
@@ -83,10 +83,10 @@ h2 {
     margin: 0 auto;
 }
 
-/*.interests {
-  background-color: #efefef;
-  border-bottom: 1px solid #dbdbdb;
-}*/
+.logo {
+	height: 10px;
+	width: auto;
+}
 
 .footer-copyright {
   padding-top: 10px;
